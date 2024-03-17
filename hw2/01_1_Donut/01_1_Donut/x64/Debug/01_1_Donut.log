@@ -1,0 +1,1 @@
+﻿C:\Users\system999\Desktop\4-1\CG\hw2\01_1_Donut\01_1_Donut\01_1_Donut.vcxproj(71,5): error MSB4019: 가져온 프로젝트 "C:\Users\system999\Desktop\4-1\CGProjectsPropertySheet.props"을(를) 찾을 수 없습니다. Import 선언 "..\..\..\..\CGProjectsPropertySheet.props"의 식이 올바르고 디스크에 파일이 있는지 확인하세요.
